@@ -36,6 +36,8 @@ Estudante de TI pelo UFRN
   <a target="_blank" ><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;" align="middle"></a>
   <a target="_blank" ><img src="https://img.shields.io/badge/Apache Cordova-darkblue?style=for-the-badge&logo=apachecordova" style="max-width: 100%;" align="middle"></a>
   <a target="_blank" ><img src="https://img.shields.io/badge/Jquery%20Mobile-black?style=for-the-badge&logo=jquery" style="max-width: 100%;" align="middle"></a>
+  <a target="_blank" ><img src="https://img.shields.io/badge/PHP-purple?logoColor=white&style=for-the-badge&logo=PHP" style="max-width: 100%;" align="middle"></a>
+  <a target="_blank" ><img src="https://img.shields.io/badge/Laravel-white?logoColor=red&style=for-the-badge&logo=Laravel" style="max-width: 100%;" align="middle"></a>
   <a target="_blank" ><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;" align="middle"></a>
   <a target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;" align="middle"></a>
   <a target="_blank" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;" align="middle"></a>
@@ -47,5 +49,7 @@ Estudante de TI pelo UFRN
   <a target="_blank" ><img src="https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=cmake" style="max-width: 100%;" align="middle"></a>
   <a target="_blank" ><img src="https://img.shields.io/badge/Java-darkorange?style=for-the-badge&logo=oracle" style="max-width: 100%;" align="middle"></a>
   <a target="_blank" ><img src="https://img.shields.io/badge/Spring Boot-white?style=for-the-badge&logo=springboot" style="max-width: 100%;" align="middle"></a>
+  <a target="_blank" ><img src="https://img.shields.io/badge/MySQL-darkblue?logoColor=orange&style=for-the-badge&logo=mysql" style="max-width: 100%;" align="middle"></a>
+  
   
 </div>
