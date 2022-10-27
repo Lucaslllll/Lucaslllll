@@ -1,6 +1,8 @@
 ### Olá! Me chamo Lucas
 
-Estudante de TI pelo UFRN
+- Técnico em Informática pelo IFRN
+- Estudante de TI pelo UFRN
+
 
 
 ##
