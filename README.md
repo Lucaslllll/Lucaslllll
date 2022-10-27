@@ -16,6 +16,9 @@
 <div align="center">
   <a href="maito:lucascosta12367@gmail.com"><img src="https://img.shields.io/badge/gmail-red?logoColor=white&style=for-the-badge&logo=gmail"></a>
   <a target="_blank" href="https://www.linkedin.com/in/lucasduartedacosta/"><img src="https://img.shields.io/badge/Linkedin-blue?logoColor=white&style=for-the-badge&logo=linkedin"></a>
+  <a target="_blank" href="https://wa.me/5584981245286?text=Olá,%20Lucas"><img src="https://img.shields.io/badge/Whatsapp-darkgreen?logoColor=white&style=for-the-badge&logo=whatsapp"></a>
+  
+  
 </div>
   
 ##
