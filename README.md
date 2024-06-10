@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0290E8&height=180&section=header&text=Lucas+Duarte&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 ### Olá! Me chamo Lucas
 
 - Técnico em Informática pelo IFRN
